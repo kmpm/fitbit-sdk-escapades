@@ -44,7 +44,7 @@ __Sub Elements__
 
 
 # title-list-item
-Part of [#title-list](#title-list).
+Part of [#tile-list](#tile-list).
 
 ## Basic example
 ```svg
