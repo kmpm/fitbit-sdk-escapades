@@ -1,0 +1,36 @@
+.background {
+  viewport-fill: fb-cyan;  
+}
+
+text {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+
+.item-header {
+  fill: #ff0000;
+  height: 20;
+  width: 100%;
+}
+
+.item {
+  width: 100%;
+  height: 88;
+}
+
+.stuff {
+  x: 5; 
+  y: 5; 
+  width: 100%-5; 
+  height: 100%-5; 
+  fill: fb-peach;
+}
+
+.item-footer {
+  fill: #00ff00;
+  height: 20;
+  width: 100%;
+}

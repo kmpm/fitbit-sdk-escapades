@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "8cf40e47-b0d1-46bc-9c98-60414cda5bed",
+    "appType": "app",
+    "appDisplayName": "TileTest",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "TileTest"
+      }
+    }
+  }
+}
