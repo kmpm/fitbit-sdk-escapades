@@ -40,7 +40,7 @@ X='1' selects aligning the nearest item to the top of the view after the scroll 
 * `separator-height-bottom`: 2= Seen used in BART example
 
 __Sub Elements__
-* [#title-list-item](title-list-item): A repeating container element.
+* [#title-list-item](#title-list-item): A repeating container element.
 
 
 # title-list-item
