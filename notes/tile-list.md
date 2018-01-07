@@ -56,9 +56,11 @@ The tile-list element implements a
 * state:
 
 ### Methods
-* `getTile(position: number)`: Returns TileItem
-* `insertTile(item: TitleListItem, position: number, options?: TitleListItemOperationOptions | undefined)`
-* `obtainTile()`: TileListItem factory that returns an item suitable for using with `insertTile()`
+* _DOES NOT EXIST IN REAL DEVICE!_ `getTile(position: number)`: Returns TileItem
+* _DOES NOT EXIST IN REAL DEVICE!_ `insertTile(item: TitleListItem, position: number, options?: TitleListItemOperationOptions | undefined)`
+* `insert()`: This is probably the insertTile() method but it actually exists.
+* `obtainTile(type: string)`: TileListItem factory that returns 
+  an item suitable for using with `insertTile()`. What strings are allowed as 'type' is still not known.
 * addEventListener
 * removeEventListener
 * dispatchEvent
