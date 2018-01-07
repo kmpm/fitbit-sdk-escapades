@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "502c1b0f-e787-489a-a438-65ac1d4ace89",
+    "appType": "app",
+    "appDisplayName": "TestIonicViews",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "TestIonicViews"
+      }
+    }
+  }
+}

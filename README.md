@@ -21,6 +21,8 @@ And that goes for the documentation as well.
 # Notes
 Notes, docs and snippets about various things.
 * [TileList](./notes/tile-list.md) - Findings about TileList
+* [Ionic Views](./notes/ionic-views.md) - Notes about Ionic Views 
 
 # Samples
 * [TileTest](./samples/TileTest) - Some stuff with Tile Lists
+* [TestIonicViews](./samples/TestIonicViews) - Test of Ionic Views.
