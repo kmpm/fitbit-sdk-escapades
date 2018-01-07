@@ -10,12 +10,14 @@ export class Screen2 extends View {
 
     // Lifecycle hook executed on `view.mount()`.
     onMount(){
+        console.log('mounting screen 2');
         // TODO: insert subviews...
         // TODO: subscribe for events...
     }
 
     // Lifecycle hook executed on `view.unmount()`.
     onUnmount(){
+        console.log('mounting screen 2');
         // TODO: unsubscribe from events...
     }
 

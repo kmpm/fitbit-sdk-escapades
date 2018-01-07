@@ -1,7 +1,8 @@
-import { View, $at } from './view'
-import { clock } from 'clock'
+import { View, $at } from './view';
+import clock from 'clock';
 
 const $ = $at( '#screen-1' );
+
 
 export class Screen1 extends View {
     // Root view element used to show/hide the view.
@@ -14,6 +15,7 @@ export class Screen1 extends View {
     seconds = 0;
 
     onMount(){
+        console.log('mounting screen 1');
         // Subscribe for the clock...
         clock.granularity = 'seconds';
         clock.ontick = this.onTick;
@@ -31,6 +33,7 @@ export class Screen1 extends View {
     }
 
     onUnmount(){
+        console.log('unmounting screen 1');
         // Unsubscribe from the clock
         clock.granularity = 'off';
         clock.ontick = null;
