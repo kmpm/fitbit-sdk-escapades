@@ -20,14 +20,5 @@
     <use id="tile-2" href="#tile-list-item" class="item">
       <use href="#mytile" />
     </use>
-    <use id="tile-3" href="#tile-list-item" class="item">
-      <use href="#mytile" />
-    </use>
-    <use id="tile-4" href="#tile-list-item" class="item">
-      <use href="#mytile" />
-    </use>
-    <use id="tile-5" href="#tile-list-item" class="item">
-      <use href="#mytile" />
-    </use>
   </use>
 </svg>
