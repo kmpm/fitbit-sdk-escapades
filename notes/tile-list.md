@@ -41,7 +41,10 @@ X='1' selects aligning the nearest item to the top of the view after the scroll 
 
 ### Sub Elements
 The component is composed of the following SVG sub elements:
+* `tile-list-header`: 
 * [#title-list-item](#title-list-item): A repeating container element.
+* `tile-list-footer`:
+* `tile-list-pool`:
 
 ## Javascript
 The tile-list element implements a 
