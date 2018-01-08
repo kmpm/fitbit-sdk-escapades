@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "5ac45207-b476-46d1-9ac1-5b65751a8e06",
+    "appType": "app",
+    "appDisplayName": "ScrollViewTest",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "ScrollViewTest"
+      }
+    }
+  }
+}
